@@ -5,7 +5,7 @@ Where traditional machine learning project's success are evaluated with their ac
 
 This project reframes a customer churn prediction as a Financial Risk Management problem. By developing a custom Expected Value loss function, this system shifts the focus from purely classifying customers to actively calculating and minimizing revenue drain.
 
-## Objectives I fulfilled 
+## Objectives fulfilled 
 - Identified $1.9 Million in lifetime revenue loss from month-to-month contracts.
 
 - Mathematically proved that prioritizing a high-recall algorithm over a high-accuracy algorithm saves the firm massive amounts of revenue by aggressively catching high-value flight risks.
